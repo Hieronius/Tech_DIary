@@ -1,0 +1,1150 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A2B29B7A2C8E886200986359 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A27E7E272C2A5CB80046A222 /* main.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		A28BD54A2BC2279A00AD47D5 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		A203D3332C016AF800D77970 /* 🪀Work day 52 from 24.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 52 from 24.05.24.swift"; sourceTree = "<group>"; };
+		A203D3362C02BE4600D77970 /* 🪀Work day 53 from 25.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 53 from 25.05.24.swift"; sourceTree = "<group>"; };
+		A203D3392C02C87A00D77970 /* LaundryRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaundryRouter.swift; sourceTree = "<group>"; };
+		A203D33B2C040B1900D77970 /* 🪀Work day 54 from 26.03.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 54 from 26.03.24.swift"; sourceTree = "<group>"; };
+		A203D3452C06DB8200D77970 /* 🪀Work day 55 from 27.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 55 from 27.05.24.swift"; sourceTree = "<group>"; };
+		A203D3492C06DC5600D77970 /* 🪀Work day 56 from 28.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 56 from 28.05.24.swift"; sourceTree = "<group>"; };
+		A20E84352BC61D4000C20D20 /* 🪀Work day 6 from 08.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 6 from 08.04.24.swift"; sourceTree = "<group>"; };
+		A20E84372BC61D6600C20D20 /* 🪀Work day 7 from 09.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 7 from 09.04.24.swift"; sourceTree = "<group>"; };
+		A21228E42BCB6370005C718F /* 🪀Work day 11 from 13.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 11 from 13.04.24.swift"; sourceTree = "<group>"; };
+		A213705A2C742FF20009E241 /* 🪀Work day 139 from 19.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 139 from 19.08.24.swift"; sourceTree = "<group>"; };
+		A21370622C7566B90009E241 /* 🪀Work day 140 from 20.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 140 from 20.08.24.swift"; sourceTree = "<group>"; };
+		A21370992C76C26B0009E241 /* 🪀Work day 141 from 21.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 141 from 21.08.24.swift"; sourceTree = "<group>"; };
+		A213709F2C7827650009E241 /* 🪀Work day 142 from 22.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 142 from 22.08.24.swift"; sourceTree = "<group>"; };
+		A2170BB92BC76B8B004598C8 /* 🪀 Work day 8 from 10.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀 Work day 8 from 10.04.24.swift"; sourceTree = "<group>"; };
+		A22652512BD0A85E00CCC134 /* 🪀Work day 15 from 17.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 15 from 17.04.24.swift"; sourceTree = "<group>"; };
+		A226AA742BE5BD4B001B7751 /* 🪀Work day 31 from  03.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 31 from  03.05.24.swift"; sourceTree = "<group>"; };
+		A226AA772BE70BE2001B7751 /* 🪀Work day 32 from 04.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 32 from 04.05.24.swift"; sourceTree = "<group>"; };
+		A226AA7B2BE85FB7001B7751 /* 🪀Work day 33 from 05.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 33 from 05.04.24.swift"; sourceTree = "<group>"; };
+		A226AA7F2BE9ADFF001B7751 /* 🪀Work day 34 from 06.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 34 from 06.05.24.swift"; sourceTree = "<group>"; };
+		A2280FB72BE4651800D0BFAB /* 🪀Work day 30 from 02.05.24 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 30 from 02.05.24 .swift"; sourceTree = "<group>"; };
+		A229B95E2BC8BEBB00FF6483 /* 🪀Work day 9 from 11.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 9 from 11.04.24.swift"; sourceTree = "<group>"; };
+		A23062992BCF5484006951CC /* 🪀Work day 14 from 16.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 14 from 16.04.24.swift"; sourceTree = "<group>"; };
+		A236764F2C7EA4D8008A2D0B /* 🪀Work day 147 from 27.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 147 from 27.08.24.swift"; sourceTree = "<group>"; };
+		A236B9D82BC37AA200FF3330 /* 🪀Work day 5 from 07.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 5 from 07.04.24.swift"; sourceTree = "<group>"; };
+		A240F9B92C17D6D700220BBF /* 🪀Work day 70 from 10.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 70 from 10.06.24.swift"; sourceTree = "<group>"; };
+		A241E7DC2C7FFE55009CE22F /* 🪀Work day 148 from 28.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 148 from 28.08.24.swift"; sourceTree = "<group>"; };
+		A241E7DE2C800017009CE22F /* Tech Interview Plan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tech Interview Plan.swift"; sourceTree = "<group>"; };
+		A2483D702BDF28FF00BD2BDF /* 🪀Work day 26 from 28.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 26 from 28.04.24.swift"; sourceTree = "<group>"; };
+		A24D4AA32BD5EB1100792AC3 /* 🪀Work day 19 from 21.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 19 from 21.04.24.swift"; sourceTree = "<group>"; };
+		A256315C2BD9E03900A6087B /* 🪀Work day 22 from 24.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 22 from 24.04.24.swift"; sourceTree = "<group>"; };
+		A25A2B262BD49F2C0052674A /* 🪀Work day 18 from 20.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 18 from 20.04.24.swift"; sourceTree = "<group>"; };
+		A25D884F2BD1F9D8007F7044 /* 🪀Work day 16 from 18.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 16 from 18.04.24.swift"; sourceTree = "<group>"; };
+		A25D96502BD8927900DEB291 /* 🪀Work day 21 from 23.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 21 from 23.04.24.swift"; sourceTree = "<group>"; };
+		A25EB7232BD78A390037A01C /* 🪀Work day 20 from 22.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 20 from 22.04.24.swift"; sourceTree = "<group>"; };
+		A26A7B082BEB058900C8A48C /* 🪀Work day 35 from 07.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 35 from 07.05.24.swift"; sourceTree = "<group>"; };
+		A26A7B112BEC53E400C8A48C /* 🪀Work day 36 from 08.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 36 from 08.05.24.swift"; sourceTree = "<group>"; };
+		A26A7B1A2BEDA31E00C8A48C /* 🪀Work day 37 from 09.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 37 from 09.05.24.swift"; sourceTree = "<group>"; };
+		A26A7B1D2BEEF53900C8A48C /* 🪀Work day 38 from 10.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 38 from 10.04.24.swift"; sourceTree = "<group>"; };
+		A26A7B222BF04C0900C8A48C /* 🪀Work day 39 from 11.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 39 from 11.04.24.swift"; sourceTree = "<group>"; };
+		A26A7B402BF19BBB00C8A48C /* 🪀Work day 40 from 12.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 40 from 12.05.24.swift"; sourceTree = "<group>"; };
+		A26A7B4B2BF3022F00C8A48C /* 🪀Work day 41 from 13.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 41 from 13.05.24.swift"; sourceTree = "<group>"; };
+		A26BD1BA2BCCB3D300A73CEC /* 🪀Work day 12 from 14.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 12 from 14.04.24.swift"; sourceTree = "<group>"; };
+		A26C331B2C0AA77000EAE373 /* 🪀Work day 58 from 29.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 58 from 29.05.24.swift"; sourceTree = "<group>"; };
+		A26C331D2C0AA7B200EAE373 /* 🪀Work day 59 from 30.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 59 from 30.05.24.swift"; sourceTree = "<group>"; };
+		A26C331F2C0AA7EB00EAE373 /* 🪀Work day 60 from 31.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 60 from 31.05.24.swift"; sourceTree = "<group>"; };
+		A26C33212C0D537500EAE373 /* 🪀Work day 61 from 01.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 61 from 01.06.24.swift"; sourceTree = "<group>"; };
+		A26C33232C0D538E00EAE373 /* 🪀Work day 62 from 02.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 62 from 02.06.24.swift"; sourceTree = "<group>"; };
+		A26C332F2C0E9AAB00EAE373 /* 🪀Work day 63 from 03.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 63 from 03.06.24.swift"; sourceTree = "<group>"; };
+		A26C33322C0FF03300EAE373 /* 🪀Work day 64 from 04.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 64 from 04.06.24.swift"; sourceTree = "<group>"; };
+		A26C33382C113B1500EAE373 /* 🪀Work day 65 from 05.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 65 from 05.06.24.swift"; sourceTree = "<group>"; };
+		A26C333C2C128B6800EAE373 /* 🪀Work day 66 from 06.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 66 from 06.06.24.swift"; sourceTree = "<group>"; };
+		A26C33402C1688DA00EAE373 /* 🪀Work day 67 from 07.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 67 from 07.06.24.swift"; sourceTree = "<group>"; };
+		A26C33422C1688F800EAE373 /* 🪀Work day 68 from 08.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 68 from 08.06.24.swift"; sourceTree = "<group>"; };
+		A26C33442C16891C00EAE373 /* 🪀Work day 69 from 09.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 69 from 09.06.24.swift"; sourceTree = "<group>"; };
+		A2741ED32C53298D00B27C79 /* 🪀Work day 115 from 25.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 115 from 25.07.24.swift"; sourceTree = "<group>"; };
+		A2741EE22C54787600B27C79 /* 🪀Work day 116 from 26.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 116 from 26.07.24.swift"; sourceTree = "<group>"; };
+		A2741EE62C55CE1400B27C79 /* 🪀Work day 117 from 27.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 117 from 27.07.24.swift"; sourceTree = "<group>"; };
+		A2741EE92C55CFF500B27C79 /* Links.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Links.swift; sourceTree = "<group>"; };
+		A2741EEC2C55D10900B27C79 /* Ultimate list of links and resources.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Ultimate list of links and resources.swift"; sourceTree = "<group>"; };
+		A2741EF22C571E3400B27C79 /* 🪀Work day 118 from 28.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 118 from 28.07.24.swift"; sourceTree = "<group>"; };
+		A2741EF62C5868A500B27C79 /* 🪀Work day 119 from 29.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 119 from 29.07.24.swift"; sourceTree = "<group>"; };
+		A2741F052C59C03600B27C79 /* 🪀Work day 120 from 30.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 120 from 30.07.24.swift"; sourceTree = "<group>"; };
+		A2741F0E2C5B151500B27C79 /* 🪀Work day 121 from 31.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 121 from 31.07.24.swift"; sourceTree = "<group>"; };
+		A2741F112C5C641100B27C79 /* 🪀Work day 122 from 01.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 122 from 01.08.24.swift"; sourceTree = "<group>"; };
+		A2766C942C4B41910030B6FC /* 🪀Work day 109 from 19.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 109 from 19.07.24.swift"; sourceTree = "<group>"; };
+		A2766C962C4C912A0030B6FC /* 🪀Work day 110 from 20.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 110 from 20.07.24.swift"; sourceTree = "<group>"; };
+		A2766C9A2C4DDF500030B6FC /* 🪀Work day 111 from 21.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 111 from 21.07.24.swift"; sourceTree = "<group>"; };
+		A2766C9C2C4F37EE0030B6FC /* 🪀Work day  112 from 22.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day  112 from 22.07.24.swift"; sourceTree = "<group>"; };
+		A2766CA42C5082710030B6FC /* 🪀Work day 113 from 23.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 113 from 23.07.24.swift"; sourceTree = "<group>"; };
+		A2766CAA2C51D95E0030B6FC /* 🪀Work day 114 from 24.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 114 from 24.07.24.swift"; sourceTree = "<group>"; };
+		A279FD0B2BF4402000692711 /* 🪀Work day 42 from 14.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 42 from 14.05.24.swift"; sourceTree = "<group>"; };
+		A27E7DD52C210F150046A222 /* 🪀Work day 77 from 17.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 77 from 17.06.24.swift"; sourceTree = "<group>"; };
+		A27E7DD92C225C5D0046A222 /* 🪀Work day 78 from 18.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 78 from 18.06.24.swift"; sourceTree = "<group>"; };
+		A27E7DFA2C23B2F40046A222 /* 🪀Work day 79 from 19.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 79 from 19.06.24.swift"; sourceTree = "<group>"; };
+		A27E7DFD2C2501BD0046A222 /* 🪀Work day 80 from 20.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 80 from 20.06.24.swift"; sourceTree = "<group>"; };
+		A27E7E022C26599D0046A222 /* 🪀Work day 81 from 21.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 81 from 21.06.24.swift"; sourceTree = "<group>"; };
+		A27E7E172C28F6E50046A222 /* 🪀Work day 82 from 22.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 82 from 22.06.24.swift"; sourceTree = "<group>"; };
+		A27E7E192C28F7630046A222 /* 🪀Work day 83 from 23.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 83 from 23.06.24.swift"; sourceTree = "<group>"; };
+		A27E7E1B2C2A48F60046A222 /* 🪀Work day 84 from 24.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 84 from 24.06.24.swift"; sourceTree = "<group>"; };
+		A27E7E1D2C2A50670046A222 /* @escaping.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "@escaping.swift"; sourceTree = "<group>"; };
+		A27E7E1F2C2A50740046A222 /* @autoclosure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "@autoclosure.swift"; sourceTree = "<group>"; };
+		A27E7E222C2A5B090046A222 /* Practice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Practice.swift; sourceTree = "<group>"; };
+		A27E7E272C2A5CB80046A222 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A27E7E292C2A60370046A222 /* @escaping @autoclosure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "@escaping @autoclosure.swift"; sourceTree = "<group>"; };
+		A27E7E2D2C2B9C8B0046A222 /* 🪀Work day 85 from 25.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 85 from 25.06.24.swift"; sourceTree = "<group>"; };
+		A27E7E362C2CEED80046A222 /* 🪀Work day 86 from 26.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 86 from 26.06.24.swift"; sourceTree = "<group>"; };
+		A27E7E3A2C2E3EC20046A222 /* 🪀Work day 87 from 27.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 87 from 27.06.24.swift"; sourceTree = "<group>"; };
+		A27E7E3F2C2F8D3D0046A222 /* 🪀Work day 88 from 28.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 88 from 28.06.24.swift"; sourceTree = "<group>"; };
+		A27E7E4B2C30E6D70046A222 /* 🪀Work day 89 from 29.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 89 from 29.06.24.swift"; sourceTree = "<group>"; };
+		A280AEC32C192425006F6921 /* 🪀Work day 71 from 11.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 71 from 11.06.24.swift"; sourceTree = "<group>"; };
+		A280AEC72C1BC5AD006F6921 /* 🪀Work day 72 from 12.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 72 from 12.06.24.swift"; sourceTree = "<group>"; };
+		A280AEC92C1BC5CB006F6921 /* 🪀Work day 73 from 13.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 73 from 13.06.24.swift"; sourceTree = "<group>"; };
+		A280D6942BF61C7F00043896 /* 🪀Work day 43 from 15.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 43 from 15.05.24.swift"; sourceTree = "<group>"; };
+		A280D6982BF6E56C00043896 /* 🪀Work day 44 from 16.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 44 from 16.05.24.swift"; sourceTree = "<group>"; };
+		A28859F62BCA169300BAC959 /* 🪀Work day 10 from 12.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 10 from 12.04.24.swift"; sourceTree = "<group>"; };
+		A2890D332C7965FE000B75A3 /* 🪀Work day 143 from 23.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 143 from 23.08.24.swift"; sourceTree = "<group>"; };
+		A2890D562C7AB369000B75A3 /* 🪀Work day 144 from 24.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 144 from 24.08.24.swift"; sourceTree = "<group>"; };
+		A2890D5E2C7C094A000B75A3 /* 🪀Work day 145 from 25.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 145 from 25.08.24.swift"; sourceTree = "<group>"; };
+		A2890D8A2C7D5180000B75A3 /* 🪀Work day 146 from 26.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 146 from 26.08.24.swift"; sourceTree = "<group>"; };
+		A28BD54C2BC2279A00AD47D5 /* Tech Diary */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Tech Diary"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A28BD5562BC2294600AD47D5 /* 🪀Work day 1 from 03.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 1 from 03.04.24.swift"; sourceTree = "<group>"; };
+		A28BD5582BC2297B00AD47D5 /* 🪀Work day 2 from 04.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 2 from 04.04.24.swift"; sourceTree = "<group>"; };
+		A28BD55A2BC229A600AD47D5 /* 🪀Work day 3 from 05.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 3 from 05.04.24.swift"; sourceTree = "<group>"; };
+		A28BD5612BC22BFA00AD47D5 /* 🪀Work day 4 from 06.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 4 from 06.04.24.swift"; sourceTree = "<group>"; };
+		A28FA4AD2BCE000F00AC6690 /* 🪀Work day 13 from 15.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 13 from 15.04.24.swift"; sourceTree = "<group>"; };
+		A29955132C322BB8009FC801 /* 🪀Work day 90 from 30.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 90 from 30.06.24.swift"; sourceTree = "<group>"; };
+		A29955162C33896E009FC801 /* 🪀Work day 91 from 01.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 91 from 01.07.24.swift"; sourceTree = "<group>"; };
+		A29955302C34CD2D009FC801 /* 🪀Work day 92 from 02.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 92 from 02.07.24.swift"; sourceTree = "<group>"; };
+		A29955352C34CFC7009FC801 /* Variables, constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Variables, constants.swift"; sourceTree = "<group>"; };
+		A29955372C34CFCE009FC801 /* Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
+		A29955392C34CFD5009FC801 /* Closures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Closures.swift; sourceTree = "<group>"; };
+		A299553C2C34CFE6009FC801 /* Structs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Structs.swift; sourceTree = "<group>"; };
+		A299553E2C34CFEC009FC801 /* Classes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Classes.swift; sourceTree = "<group>"; };
+		A29955402C34CFF3009FC801 /* OOP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OOP.swift; sourceTree = "<group>"; };
+		A29955432C34D016009FC801 /* Concurrency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concurrency.swift; sourceTree = "<group>"; };
+		A29955462C34D02F009FC801 /* Inits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Inits.swift; sourceTree = "<group>"; };
+		A29955482C34D035009FC801 /* Enums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enums.swift; sourceTree = "<group>"; };
+		A299554A2C34D045009FC801 /* Protocols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protocols.swift; sourceTree = "<group>"; };
+		A299554C2C34D071009FC801 /* Computed Properties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Computed Properties.swift"; sourceTree = "<group>"; };
+		A299554E2C34D07F009FC801 /* Property Observers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Property Observers.swift"; sourceTree = "<group>"; };
+		A29955502C34D09B009FC801 /* Async:Await.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Async:Await.swift"; sourceTree = "<group>"; };
+		A29955762C362784009FC801 /* 🪀Work day 93 from 03.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 93 from 03.07.24.swift"; sourceTree = "<group>"; };
+		A299558F2C377B47009FC801 /* 🪀Work day 94 from 04.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 94 from 04.07.24.swift"; sourceTree = "<group>"; };
+		A29955922C38CA4B009FC801 /* 🪀Work day 95 from 05.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 95 from 05.07.24.swift"; sourceTree = "<group>"; };
+		A29955942C3A1650009FC801 /* 🪀Work day 96 from 06.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 96 from 06.07.24.swift"; sourceTree = "<group>"; };
+		A2A86E7B2BF8314000B4B415 /* 🪀Work day 45 from 17.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 45 from 17.05.24.swift"; sourceTree = "<group>"; };
+		A2A86E872BF9879F00B4B415 /* 🪀Work day 46 from 18.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 46 from 18.05.24.swift"; sourceTree = "<group>"; };
+		A2A86E8D2BFAD5CD00B4B415 /* 🪀Work day 47 from 19.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 47 from 19.05.24.swift"; sourceTree = "<group>"; };
+		A2A86E952BFC20E700B4B415 /* 🪀Work day 48 from 20.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 48 from 20.05.24.swift"; sourceTree = "<group>"; };
+		A2A86E9A2BFD775100B4B415 /* 🪀Work day 49 from 21.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 49 from 21.05.24.swift"; sourceTree = "<group>"; };
+		A2A86EA62BFEC4FB00B4B415 /* 🪀Work day 50 from 22.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 50 from 22.05.24.swift"; sourceTree = "<group>"; };
+		A2A952322C1D18350073A151 /* 🪀Work day 74 from 14.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 74 from 14.06.24.swift"; sourceTree = "<group>"; };
+		A2A952352C1FC30E0073A151 /* 🪀Work day 75 from 15.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 75 from 15.06.24.swift"; sourceTree = "<group>"; };
+		A2A952372C1FC3290073A151 /* 🪀Work day 76 from 16.06.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 76 from 16.06.24.swift"; sourceTree = "<group>"; };
+		A2AE8DDD2BDDD48200DDABFE /* 🪀Work day 25 from 27.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 25 from 27.04.24.swift"; sourceTree = "<group>"; };
+		A2AEB55C2C9A6295009E0D60 /* TopicsRandomGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopicsRandomGenerator.swift; sourceTree = "<group>"; };
+		A2AEB55F2C9BCDE0009E0D60 /* LinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedList.swift; sourceTree = "<group>"; };
+		A2B03A382BDC826900650D89 /* 🪀Work day 24 from 26.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 24 from 26.04.24.swift"; sourceTree = "<group>"; };
+		A2B070F62C6ED7B8003DB10A /* 🪀Work day 136 from 15.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 136 from 15.08.24.swift"; sourceTree = "<group>"; };
+		A2B070F82C702CA4003DB10A /* 🪀Work day 135 from 16.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 135 from 16.08.24.swift"; sourceTree = "<group>"; };
+		A2B070FB2C702E85003DB10A /* Component.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Component.swift; sourceTree = "<group>"; };
+		A2B070FD2C7174F5003DB10A /* 🪀Work day 137 from 17.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 137 from 17.08.24.swift"; sourceTree = "<group>"; };
+		A2B071292C72D3E2003DB10A /* 🪀Work day 138 from 18.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 138 from 18.08.24.swift"; sourceTree = "<group>"; };
+		A2B179BF2C001617001FEA22 /* 🪀Work day 51 from 23.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 51 from 23.05.24.swift"; sourceTree = "<group>"; };
+		A2B26B622BD3488C001692AD /* 🪀Work day 17 from 19.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 17 from 19.04.24.swift"; sourceTree = "<group>"; };
+		A2B29B5C2C89908200986359 /* Stack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack.swift; sourceTree = "<group>"; };
+		A2B29B5E2C8991B200986359 /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
+		A2B29B642C8BDD7B00986359 /* HighOrderFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HighOrderFunctions.swift; sourceTree = "<group>"; };
+		A2B29B662C8D232200986359 /* Learning Plan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Learning Plan.swift"; sourceTree = "<group>"; };
+		A2B29B6D2C8D3A3C00986359 /* Plan of stractures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Plan of stractures.swift"; sourceTree = "<group>"; };
+		A2B29B702C8D3A7500986359 /* Plan of Sorts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Plan of Sorts.swift"; sourceTree = "<group>"; };
+		A2B29B722C8D3A9600986359 /* Plan of Searches.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Plan of Searches.swift"; sourceTree = "<group>"; };
+		A2B29B742C8D3ABF00986359 /* AdvancedTopicsForLeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedTopicsForLeetCode.swift; sourceTree = "<group>"; };
+		A2B29B762C8E7D0700986359 /* Ideas for cards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Ideas for cards.swift"; sourceTree = "<group>"; };
+		A2B29B7B2C8E968D00986359 /* Mental Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Mental Model.swift"; sourceTree = "<group>"; };
+		A2B29B7D2C91480600986359 /* MergeSort().swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MergeSort().swift"; sourceTree = "<group>"; };
+		A2B80ECB2C6ADCCD00E13BBA /* 🪀Work day 133 from 12.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 133 from 12.08.24.swift"; sourceTree = "<group>"; };
+		A2B80ED32C6C351C00E13BBA /* 🪀Work day 134 from 13.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 134 from 13.08.24.swift"; sourceTree = "<group>"; };
+		A2BEF8D02C61AC7800FA3165 /* 🪀Work day 126 from 05.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 126 from 05.08.24.swift"; sourceTree = "<group>"; };
+		A2BEF8DA2C62F8F800FA3165 /* 🪀Work day 127 from 06.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 127 from 06.08.24.swift"; sourceTree = "<group>"; };
+		A2BEF8DD2C62FFBF00FA3165 /* Algorithm's evaluation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Algorithm's evaluation.swift"; sourceTree = "<group>"; };
+		A2BEF8E52C644EB900FA3165 /* 🪀Work day 128 from 07.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 128 from 07.08.24.swift"; sourceTree = "<group>"; };
+		A2BEF8E92C659C0B00FA3165 /* 🪀Work day 129 from 08.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 129 from 08.08.24.swift"; sourceTree = "<group>"; };
+		A2BEF8EB2C66FCD000FA3165 /* 🪀Work day 130 from 09.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 130 from 09.08.24.swift"; sourceTree = "<group>"; };
+		A2BEF8F12C68472B00FA3165 /* 🪀Work day 131 from 10.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 131 from 10.08.24.swift"; sourceTree = "<group>"; };
+		A2BEF90E2C699A8D00FA3165 /* 🪀Work day 132 from 11.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 132 from 11.08.24.swift"; sourceTree = "<group>"; };
+		A2C2F2512C3B704400E58F30 /* 🪀Work day 97 from 07.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 97 from 07.07.24.swift"; sourceTree = "<group>"; };
+		A2C2F25F2C3CB6E700E58F30 /* 🪀Work day 98 from 08.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 98 from 08.07.24.swift"; sourceTree = "<group>"; };
+		A2C2F2732C3E0EB400E58F30 /* 🪀Work day 99 from 09.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 99 from 09.07.24.swift"; sourceTree = "<group>"; };
+		A2C2F2762C3F59BC00E58F30 /* 🪀Work day 100 from 10.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 100 from 10.07.24.swift"; sourceTree = "<group>"; };
+		A2C2F27D2C40B3F700E58F30 /* 🪀Work day 101 from 11.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 101 from 11.07.24.swift"; sourceTree = "<group>"; };
+		A2C2F28D2C42080C00E58F30 /* 🪀Work day 102 from 12.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 102 from 12.07.24.swift"; sourceTree = "<group>"; };
+		A2C2F28F2C420C6A00E58F30 /* General.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = General.swift; sourceTree = "<group>"; };
+		A2C2F2912C4211A200E58F30 /* Responder Chain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Responder Chain.swift"; sourceTree = "<group>"; };
+		A2C2F2932C42215500E58F30 /* HitTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HitTest.swift; sourceTree = "<group>"; };
+		A2C2F2952C43566B00E58F30 /* 🪀Work day 103 from 13.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 103 from 13.07.24.swift"; sourceTree = "<group>"; };
+		A2C2F2A02C4365E100E58F30 /* How to handle User's interactions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "How to handle User's interactions.swift"; sourceTree = "<group>"; };
+		A2C2F2A32C43762C00E58F30 /* ViewController LifeCycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController LifeCycle.swift"; sourceTree = "<group>"; };
+		A2C2F2A82C439ADD00E58F30 /* 100 days with SwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "100 days with SwiftUI.swift"; sourceTree = "<group>"; };
+		A2C2F2AD2C44AF0600E58F30 /* 🪀Work day 104 from 14.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 104 from 14.07.24.swift"; sourceTree = "<group>"; };
+		A2C2F2B42C45FA1C00E58F30 /* 🪀Work day 105 from 15.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 105 from 15.07.24.swift"; sourceTree = "<group>"; };
+		A2C2F2CE2C474EC800E58F30 /* 🪀Work day 106 from 16.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 106 from 16.07.24.swift"; sourceTree = "<group>"; };
+		A2C2F2D02C489C7800E58F30 /* 🪀Work day 107 from 17.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 107 from 17.07.24.swift"; sourceTree = "<group>"; };
+		A2C2F2D72C49EEBD00E58F30 /* 🪀Work day 108 from 18.07.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 108 from 18.07.24.swift"; sourceTree = "<group>"; };
+		A2CAD51F2C6D82530065D8C4 /* 🪀Work day 135 from 14.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 135 from 14.08.24.swift"; sourceTree = "<group>"; };
+		A2D3C73D2C814FFE0017A790 /* 🪀Work day 149 from 29.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 149 from 29.08.24.swift"; sourceTree = "<group>"; };
+		A2D3C7412C854D670017A790 /* Standart input:output.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Standart input:output.swift"; sourceTree = "<group>"; };
+		A2D3C7432C854D7E0017A790 /* Write:Read to the file.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Write:Read to the file.swift"; sourceTree = "<group>"; };
+		A2D3C7452C857AA20017A790 /* Checklist of the solution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Checklist of the solution.swift"; sourceTree = "<group>"; };
+		A2D3C7482C86B5700017A790 /* Bug In Library.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bug In Library.swift"; sourceTree = "<group>"; };
+		A2D3C74B2C8831C40017A790 /* Queue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queue.swift; sourceTree = "<group>"; };
+		A2D3C74D2C88344E0017A790 /* BFSAlgorithm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BFSAlgorithm.swift; sourceTree = "<group>"; };
+		A2D3C7502C8942560017A790 /* Game on Tora.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Game on Tora.swift"; sourceTree = "<group>"; };
+		A2D898D02BDB36C300EE7323 /* 🪀Work day 23 from 25.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 23 from 25.04.24.swift"; sourceTree = "<group>"; };
+		A2D9A0F32C5DB2AB00510C09 /* 🪀Work day 123 from 02.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 123 from 02.08.24.swift"; sourceTree = "<group>"; };
+		A2D9A0F82C5F054F00510C09 /* 🪀Work day 124 from 03.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 124 from 03.08.24.swift"; sourceTree = "<group>"; };
+		A2D9A0FA2C605E9800510C09 /* 🪀Work day 125 from 04.08.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 125 from 04.08.24.swift"; sourceTree = "<group>"; };
+		A2E7DCD52BE077E500610CE0 /* 🪀Work day 27 from 29.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 27 from 29.04.24.swift"; sourceTree = "<group>"; };
+		A2E7DCD72BE1CA1800610CE0 /* 🪀Work day 28 from 30.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 28 from 30.04.24.swift"; sourceTree = "<group>"; };
+		A2E7DCDF2BE319CC00610CE0 /* 🪀Work day 29 from 01.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 29 from 01.05.24.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A28BD5492BC2279A00AD47D5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A203D3382C02C86500D77970 /* Router */ = {
+			isa = PBXGroup;
+			children = (
+				A203D3392C02C87A00D77970 /* LaundryRouter.swift */,
+			);
+			path = Router;
+			sourceTree = "<group>";
+		};
+		A21370952C76C24D0009E241 /* Week 4 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Week 4";
+			sourceTree = "<group>";
+		};
+		A21370962C76C2580009E241 /* Week 3 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Week 3";
+			sourceTree = "<group>";
+		};
+		A21370972C76C25C0009E241 /* Week 2 */ = {
+			isa = PBXGroup;
+			children = (
+				A241E7DC2C7FFE55009CE22F /* 🪀Work day 148 from 28.08.24.swift */,
+				A2D3C73D2C814FFE0017A790 /* 🪀Work day 149 from 29.08.24.swift */,
+			);
+			path = "Week 2";
+			sourceTree = "<group>";
+		};
+		A21370982C76C2600009E241 /* Week 1 */ = {
+			isa = PBXGroup;
+			children = (
+				A21370992C76C26B0009E241 /* 🪀Work day 141 from 21.08.24.swift */,
+				A213709F2C7827650009E241 /* 🪀Work day 142 from 22.08.24.swift */,
+				A2890D332C7965FE000B75A3 /* 🪀Work day 143 from 23.08.24.swift */,
+				A2890D562C7AB369000B75A3 /* 🪀Work day 144 from 24.08.24.swift */,
+				A2890D5E2C7C094A000B75A3 /* 🪀Work day 145 from 25.08.24.swift */,
+				A2890D8A2C7D5180000B75A3 /* 🪀Work day 146 from 26.08.24.swift */,
+				A236764F2C7EA4D8008A2D0B /* 🪀Work day 147 from 27.08.24.swift */,
+			);
+			path = "Week 1";
+			sourceTree = "<group>";
+		};
+		A26A7B0D2BEB078D00C8A48C /* Week 2 */ = {
+			isa = PBXGroup;
+			children = (
+				A26A7B112BEC53E400C8A48C /* 🪀Work day 36 from 08.05.24.swift */,
+				A26A7B1A2BEDA31E00C8A48C /* 🪀Work day 37 from 09.05.24.swift */,
+				A26A7B1D2BEEF53900C8A48C /* 🪀Work day 38 from 10.04.24.swift */,
+				A26A7B222BF04C0900C8A48C /* 🪀Work day 39 from 11.04.24.swift */,
+				A26A7B402BF19BBB00C8A48C /* 🪀Work day 40 from 12.05.24.swift */,
+				A26A7B4B2BF3022F00C8A48C /* 🪀Work day 41 from 13.05.24.swift */,
+				A279FD0B2BF4402000692711 /* 🪀Work day 42 from 14.05.24.swift */,
+			);
+			path = "Week 2";
+			sourceTree = "<group>";
+		};
+		A26A7B0E2BEB079200C8A48C /* Week 3 */ = {
+			isa = PBXGroup;
+			children = (
+				A280D6942BF61C7F00043896 /* 🪀Work day 43 from 15.05.24.swift */,
+				A280D6982BF6E56C00043896 /* 🪀Work day 44 from 16.05.24.swift */,
+				A2A86E7B2BF8314000B4B415 /* 🪀Work day 45 from 17.05.24.swift */,
+				A2A86E872BF9879F00B4B415 /* 🪀Work day 46 from 18.05.24.swift */,
+				A2A86E8D2BFAD5CD00B4B415 /* 🪀Work day 47 from 19.05.24.swift */,
+				A2A86E952BFC20E700B4B415 /* 🪀Work day 48 from 20.05.24.swift */,
+				A2A86E9A2BFD775100B4B415 /* 🪀Work day 49 from 21.05.24.swift */,
+			);
+			path = "Week 3";
+			sourceTree = "<group>";
+		};
+		A26A7B0F2BEB07B500C8A48C /* Week 4 */ = {
+			isa = PBXGroup;
+			children = (
+				A2A86EA62BFEC4FB00B4B415 /* 🪀Work day 50 from 22.05.24.swift */,
+				A2B179BF2C001617001FEA22 /* 🪀Work day 51 from 23.05.24.swift */,
+				A203D3332C016AF800D77970 /* 🪀Work day 52 from 24.05.24.swift */,
+				A203D3362C02BE4600D77970 /* 🪀Work day 53 from 25.05.24.swift */,
+				A203D33B2C040B1900D77970 /* 🪀Work day 54 from 26.03.24.swift */,
+				A203D3452C06DB8200D77970 /* 🪀Work day 55 from 27.05.24.swift */,
+				A203D3492C06DC5600D77970 /* 🪀Work day 56 from 28.05.24.swift */,
+			);
+			path = "Week 4";
+			sourceTree = "<group>";
+		};
+		A26BD1BC2BCCB47800A73CEC /* Internship */ = {
+			isa = PBXGroup;
+			children = (
+				A28859F92BCA1C9D00BAC959 /* April */,
+				A28859FA2BCA1CA900BAC959 /* May */,
+				A28859FB2BCA1CAE00BAC959 /* June */,
+				A27E7E2F2C2B9CC70046A222 /* July */,
+				A27E7E302C2B9CCC0046A222 /* August */,
+				A27E7E312C2B9CD20046A222 /* September */,
+			);
+			path = Internship;
+			sourceTree = "<group>";
+		};
+		A26C33342C113AE400EAE373 /* Week 1 */ = {
+			isa = PBXGroup;
+			children = (
+				A26C331B2C0AA77000EAE373 /* 🪀Work day 58 from 29.05.24.swift */,
+				A26C331D2C0AA7B200EAE373 /* 🪀Work day 59 from 30.05.24.swift */,
+				A26C331F2C0AA7EB00EAE373 /* 🪀Work day 60 from 31.05.24.swift */,
+				A26C33212C0D537500EAE373 /* 🪀Work day 61 from 01.06.24.swift */,
+				A26C33232C0D538E00EAE373 /* 🪀Work day 62 from 02.06.24.swift */,
+				A26C332F2C0E9AAB00EAE373 /* 🪀Work day 63 from 03.06.24.swift */,
+				A26C33322C0FF03300EAE373 /* 🪀Work day 64 from 04.06.24.swift */,
+			);
+			path = "Week 1";
+			sourceTree = "<group>";
+		};
+		A26C33352C113AF100EAE373 /* Week 2 */ = {
+			isa = PBXGroup;
+			children = (
+				A26C33382C113B1500EAE373 /* 🪀Work day 65 from 05.06.24.swift */,
+				A26C333C2C128B6800EAE373 /* 🪀Work day 66 from 06.06.24.swift */,
+				A26C33402C1688DA00EAE373 /* 🪀Work day 67 from 07.06.24.swift */,
+				A26C33422C1688F800EAE373 /* 🪀Work day 68 from 08.06.24.swift */,
+				A26C33442C16891C00EAE373 /* 🪀Work day 69 from 09.06.24.swift */,
+				A240F9B92C17D6D700220BBF /* 🪀Work day 70 from 10.06.24.swift */,
+				A280AEC32C192425006F6921 /* 🪀Work day 71 from 11.06.24.swift */,
+			);
+			path = "Week 2";
+			sourceTree = "<group>";
+		};
+		A26C33362C113AF500EAE373 /* Week 3 */ = {
+			isa = PBXGroup;
+			children = (
+				A280AEC72C1BC5AD006F6921 /* 🪀Work day 72 from 12.06.24.swift */,
+				A280AEC92C1BC5CB006F6921 /* 🪀Work day 73 from 13.06.24.swift */,
+				A2A952322C1D18350073A151 /* 🪀Work day 74 from 14.06.24.swift */,
+				A2A952352C1FC30E0073A151 /* 🪀Work day 75 from 15.06.24.swift */,
+				A2A952372C1FC3290073A151 /* 🪀Work day 76 from 16.06.24.swift */,
+				A27E7DD52C210F150046A222 /* 🪀Work day 77 from 17.06.24.swift */,
+				A27E7DD92C225C5D0046A222 /* 🪀Work day 78 from 18.06.24.swift */,
+			);
+			path = "Week 3";
+			sourceTree = "<group>";
+		};
+		A26C33372C113AF900EAE373 /* Week 4 */ = {
+			isa = PBXGroup;
+			children = (
+				A27E7DFA2C23B2F40046A222 /* 🪀Work day 79 from 19.06.24.swift */,
+				A27E7DFD2C2501BD0046A222 /* 🪀Work day 80 from 20.06.24.swift */,
+				A27E7E022C26599D0046A222 /* 🪀Work day 81 from 21.06.24.swift */,
+				A27E7E172C28F6E50046A222 /* 🪀Work day 82 from 22.06.24.swift */,
+				A27E7E192C28F7630046A222 /* 🪀Work day 83 from 23.06.24.swift */,
+				A27E7E1B2C2A48F60046A222 /* 🪀Work day 84 from 24.06.24.swift */,
+				A27E7E2D2C2B9C8B0046A222 /* 🪀Work day 85 from 25.06.24.swift */,
+			);
+			path = "Week 4";
+			sourceTree = "<group>";
+		};
+		A2741EE82C55CFDD00B27C79 /* Multithreading */ = {
+			isa = PBXGroup;
+			children = (
+				A2741EE92C55CFF500B27C79 /* Links.swift */,
+				A29955432C34D016009FC801 /* Concurrency.swift */,
+				A29955502C34D09B009FC801 /* Async:Await.swift */,
+				A2B29B7B2C8E968D00986359 /* Mental Model.swift */,
+			);
+			path = Multithreading;
+			sourceTree = "<group>";
+		};
+		A2741EEB2C55D0E800B27C79 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				A2741EEC2C55D10900B27C79 /* Ultimate list of links and resources.swift */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
+		A2766CA62C51D9460030B6FC /* Week 4 */ = {
+			isa = PBXGroup;
+			children = (
+				A2CAD51F2C6D82530065D8C4 /* 🪀Work day 135 from 14.08.24.swift */,
+				A2B070F62C6ED7B8003DB10A /* 🪀Work day 136 from 15.08.24.swift */,
+				A2B070F82C702CA4003DB10A /* 🪀Work day 135 from 16.08.24.swift */,
+				A2B070FD2C7174F5003DB10A /* 🪀Work day 137 from 17.08.24.swift */,
+				A2B071292C72D3E2003DB10A /* 🪀Work day 138 from 18.08.24.swift */,
+				A213705A2C742FF20009E241 /* 🪀Work day 139 from 19.08.24.swift */,
+				A21370622C7566B90009E241 /* 🪀Work day 140 from 20.08.24.swift */,
+			);
+			path = "Week 4";
+			sourceTree = "<group>";
+		};
+		A2766CA72C51D94B0030B6FC /* Week 3 */ = {
+			isa = PBXGroup;
+			children = (
+				A2BEF8E52C644EB900FA3165 /* 🪀Work day 128 from 07.08.24.swift */,
+				A2BEF8E92C659C0B00FA3165 /* 🪀Work day 129 from 08.08.24.swift */,
+				A2BEF8EB2C66FCD000FA3165 /* 🪀Work day 130 from 09.08.24.swift */,
+				A2BEF8F12C68472B00FA3165 /* 🪀Work day 131 from 10.08.24.swift */,
+				A2BEF90E2C699A8D00FA3165 /* 🪀Work day 132 from 11.08.24.swift */,
+				A2B80ECB2C6ADCCD00E13BBA /* 🪀Work day 133 from 12.08.24.swift */,
+				A2B80ED32C6C351C00E13BBA /* 🪀Work day 134 from 13.08.24.swift */,
+			);
+			path = "Week 3";
+			sourceTree = "<group>";
+		};
+		A2766CA82C51D94F0030B6FC /* Week 2 */ = {
+			isa = PBXGroup;
+			children = (
+				A2741F0E2C5B151500B27C79 /* 🪀Work day 121 from 31.07.24.swift */,
+				A2741F112C5C641100B27C79 /* 🪀Work day 122 from 01.08.24.swift */,
+				A2D9A0F32C5DB2AB00510C09 /* 🪀Work day 123 from 02.08.24.swift */,
+				A2D9A0F82C5F054F00510C09 /* 🪀Work day 124 from 03.08.24.swift */,
+				A2D9A0FA2C605E9800510C09 /* 🪀Work day 125 from 04.08.24.swift */,
+				A2BEF8D02C61AC7800FA3165 /* 🪀Work day 126 from 05.08.24.swift */,
+				A2BEF8DA2C62F8F800FA3165 /* 🪀Work day 127 from 06.08.24.swift */,
+			);
+			path = "Week 2";
+			sourceTree = "<group>";
+		};
+		A2766CA92C51D9520030B6FC /* Week 1 */ = {
+			isa = PBXGroup;
+			children = (
+				A2766CAA2C51D95E0030B6FC /* 🪀Work day 114 from 24.07.24.swift */,
+				A2741ED32C53298D00B27C79 /* 🪀Work day 115 from 25.07.24.swift */,
+				A2741EE22C54787600B27C79 /* 🪀Work day 116 from 26.07.24.swift */,
+				A2741EE62C55CE1400B27C79 /* 🪀Work day 117 from 27.07.24.swift */,
+				A2741EF22C571E3400B27C79 /* 🪀Work day 118 from 28.07.24.swift */,
+				A2741EF62C5868A500B27C79 /* 🪀Work day 119 from 29.07.24.swift */,
+				A2741F052C59C03600B27C79 /* 🪀Work day 120 from 30.07.24.swift */,
+			);
+			path = "Week 1";
+			sourceTree = "<group>";
+		};
+		A27E7E212C2A5AF70046A222 /* Closures */ = {
+			isa = PBXGroup;
+			children = (
+				A27E7E222C2A5B090046A222 /* Practice.swift */,
+				A27E7E1D2C2A50670046A222 /* @escaping.swift */,
+				A27E7E1F2C2A50740046A222 /* @autoclosure.swift */,
+				A27E7E292C2A60370046A222 /* @escaping @autoclosure.swift */,
+			);
+			path = Closures;
+			sourceTree = "<group>";
+		};
+		A27E7E2F2C2B9CC70046A222 /* July */ = {
+			isa = PBXGroup;
+			children = (
+				A27E7E322C2B9D030046A222 /* Week 1 */,
+				A27E7E332C2B9D080046A222 /* Week 2 */,
+				A27E7E342C2B9D0E0046A222 /* Week 3 */,
+				A27E7E352C2B9D110046A222 /* Week 4 */,
+			);
+			path = July;
+			sourceTree = "<group>";
+		};
+		A27E7E302C2B9CCC0046A222 /* August */ = {
+			isa = PBXGroup;
+			children = (
+				A2766CA92C51D9520030B6FC /* Week 1 */,
+				A2766CA82C51D94F0030B6FC /* Week 2 */,
+				A2766CA72C51D94B0030B6FC /* Week 3 */,
+				A2766CA62C51D9460030B6FC /* Week 4 */,
+			);
+			path = August;
+			sourceTree = "<group>";
+		};
+		A27E7E312C2B9CD20046A222 /* September */ = {
+			isa = PBXGroup;
+			children = (
+				A21370982C76C2600009E241 /* Week 1 */,
+				A21370972C76C25C0009E241 /* Week 2 */,
+				A21370962C76C2580009E241 /* Week 3 */,
+				A21370952C76C24D0009E241 /* Week 4 */,
+			);
+			path = September;
+			sourceTree = "<group>";
+		};
+		A27E7E322C2B9D030046A222 /* Week 1 */ = {
+			isa = PBXGroup;
+			children = (
+				A27E7E362C2CEED80046A222 /* 🪀Work day 86 from 26.06.24.swift */,
+				A27E7E3A2C2E3EC20046A222 /* 🪀Work day 87 from 27.06.24.swift */,
+				A27E7E3F2C2F8D3D0046A222 /* 🪀Work day 88 from 28.06.24.swift */,
+				A27E7E4B2C30E6D70046A222 /* 🪀Work day 89 from 29.06.24.swift */,
+				A29955132C322BB8009FC801 /* 🪀Work day 90 from 30.06.24.swift */,
+				A29955162C33896E009FC801 /* 🪀Work day 91 from 01.07.24.swift */,
+				A29955302C34CD2D009FC801 /* 🪀Work day 92 from 02.07.24.swift */,
+			);
+			path = "Week 1";
+			sourceTree = "<group>";
+		};
+		A27E7E332C2B9D080046A222 /* Week 2 */ = {
+			isa = PBXGroup;
+			children = (
+				A29955762C362784009FC801 /* 🪀Work day 93 from 03.07.24.swift */,
+				A299558F2C377B47009FC801 /* 🪀Work day 94 from 04.07.24.swift */,
+				A29955922C38CA4B009FC801 /* 🪀Work day 95 from 05.07.24.swift */,
+				A29955942C3A1650009FC801 /* 🪀Work day 96 from 06.07.24.swift */,
+				A2C2F2512C3B704400E58F30 /* 🪀Work day 97 from 07.07.24.swift */,
+				A2C2F25F2C3CB6E700E58F30 /* 🪀Work day 98 from 08.07.24.swift */,
+				A2C2F2732C3E0EB400E58F30 /* 🪀Work day 99 from 09.07.24.swift */,
+			);
+			path = "Week 2";
+			sourceTree = "<group>";
+		};
+		A27E7E342C2B9D0E0046A222 /* Week 3 */ = {
+			isa = PBXGroup;
+			children = (
+				A2C2F2762C3F59BC00E58F30 /* 🪀Work day 100 from 10.07.24.swift */,
+				A2C2F27D2C40B3F700E58F30 /* 🪀Work day 101 from 11.07.24.swift */,
+				A2C2F28D2C42080C00E58F30 /* 🪀Work day 102 from 12.07.24.swift */,
+				A2C2F2952C43566B00E58F30 /* 🪀Work day 103 from 13.07.24.swift */,
+				A2C2F2AD2C44AF0600E58F30 /* 🪀Work day 104 from 14.07.24.swift */,
+				A2C2F2B42C45FA1C00E58F30 /* 🪀Work day 105 from 15.07.24.swift */,
+				A2C2F2CE2C474EC800E58F30 /* 🪀Work day 106 from 16.07.24.swift */,
+			);
+			path = "Week 3";
+			sourceTree = "<group>";
+		};
+		A27E7E352C2B9D110046A222 /* Week 4 */ = {
+			isa = PBXGroup;
+			children = (
+				A2C2F2D02C489C7800E58F30 /* 🪀Work day 107 from 17.07.24.swift */,
+				A2C2F2D72C49EEBD00E58F30 /* 🪀Work day 108 from 18.07.24.swift */,
+				A2766C942C4B41910030B6FC /* 🪀Work day 109 from 19.07.24.swift */,
+				A2766C962C4C912A0030B6FC /* 🪀Work day 110 from 20.07.24.swift */,
+				A2766C9A2C4DDF500030B6FC /* 🪀Work day 111 from 21.07.24.swift */,
+				A2766C9C2C4F37EE0030B6FC /* 🪀Work day  112 from 22.07.24.swift */,
+				A2766CA42C5082710030B6FC /* 🪀Work day 113 from 23.07.24.swift */,
+			);
+			path = "Week 4";
+			sourceTree = "<group>";
+		};
+		A28859F92BCA1C9D00BAC959 /* April */ = {
+			isa = PBXGroup;
+			children = (
+				A28859FC2BCA1CCC00BAC959 /* Week 1 */,
+				A28859FD2BCA1CD300BAC959 /* Week 2 */,
+				A28859FE2BCA1CD700BAC959 /* Week 3 */,
+				A28859FF2BCA1CDB00BAC959 /* Week 4 */,
+			);
+			path = April;
+			sourceTree = "<group>";
+		};
+		A28859FA2BCA1CA900BAC959 /* May */ = {
+			isa = PBXGroup;
+			children = (
+				A26A7B0F2BEB07B500C8A48C /* Week 4 */,
+				A26A7B0E2BEB079200C8A48C /* Week 3 */,
+				A26A7B0D2BEB078D00C8A48C /* Week 2 */,
+				A2E7DCDE2BE3199F00610CE0 /* Week 1 */,
+			);
+			path = May;
+			sourceTree = "<group>";
+		};
+		A28859FB2BCA1CAE00BAC959 /* June */ = {
+			isa = PBXGroup;
+			children = (
+				A26C33342C113AE400EAE373 /* Week 1 */,
+				A26C33352C113AF100EAE373 /* Week 2 */,
+				A26C33362C113AF500EAE373 /* Week 3 */,
+				A26C33372C113AF900EAE373 /* Week 4 */,
+			);
+			path = June;
+			sourceTree = "<group>";
+		};
+		A28859FC2BCA1CCC00BAC959 /* Week 1 */ = {
+			isa = PBXGroup;
+			children = (
+				A28BD5562BC2294600AD47D5 /* 🪀Work day 1 from 03.04.24.swift */,
+				A28BD5582BC2297B00AD47D5 /* 🪀Work day 2 from 04.04.24.swift */,
+				A28BD55A2BC229A600AD47D5 /* 🪀Work day 3 from 05.04.24.swift */,
+				A28BD5612BC22BFA00AD47D5 /* 🪀Work day 4 from 06.04.24.swift */,
+				A236B9D82BC37AA200FF3330 /* 🪀Work day 5 from 07.04.24.swift */,
+				A20E84352BC61D4000C20D20 /* 🪀Work day 6 from 08.04.24.swift */,
+				A20E84372BC61D6600C20D20 /* 🪀Work day 7 from 09.04.24.swift */,
+			);
+			path = "Week 1";
+			sourceTree = "<group>";
+		};
+		A28859FD2BCA1CD300BAC959 /* Week 2 */ = {
+			isa = PBXGroup;
+			children = (
+				A2170BB92BC76B8B004598C8 /* 🪀 Work day 8 from 10.04.24.swift */,
+				A229B95E2BC8BEBB00FF6483 /* 🪀Work day 9 from 11.04.24.swift */,
+				A28859F62BCA169300BAC959 /* 🪀Work day 10 from 12.04.24.swift */,
+				A21228E42BCB6370005C718F /* 🪀Work day 11 from 13.04.24.swift */,
+				A26BD1BA2BCCB3D300A73CEC /* 🪀Work day 12 from 14.04.24.swift */,
+				A28FA4AD2BCE000F00AC6690 /* 🪀Work day 13 from 15.04.24.swift */,
+				A23062992BCF5484006951CC /* 🪀Work day 14 from 16.04.24.swift */,
+			);
+			path = "Week 2";
+			sourceTree = "<group>";
+		};
+		A28859FE2BCA1CD700BAC959 /* Week 3 */ = {
+			isa = PBXGroup;
+			children = (
+				A22652512BD0A85E00CCC134 /* 🪀Work day 15 from 17.04.24.swift */,
+				A25D884F2BD1F9D8007F7044 /* 🪀Work day 16 from 18.04.24.swift */,
+				A2B26B622BD3488C001692AD /* 🪀Work day 17 from 19.04.24.swift */,
+				A25A2B262BD49F2C0052674A /* 🪀Work day 18 from 20.04.24.swift */,
+				A24D4AA32BD5EB1100792AC3 /* 🪀Work day 19 from 21.04.24.swift */,
+				A25EB7232BD78A390037A01C /* 🪀Work day 20 from 22.04.24.swift */,
+				A25D96502BD8927900DEB291 /* 🪀Work day 21 from 23.04.24.swift */,
+			);
+			path = "Week 3";
+			sourceTree = "<group>";
+		};
+		A28859FF2BCA1CDB00BAC959 /* Week 4 */ = {
+			isa = PBXGroup;
+			children = (
+				A256315C2BD9E03900A6087B /* 🪀Work day 22 from 24.04.24.swift */,
+				A2D898D02BDB36C300EE7323 /* 🪀Work day 23 from 25.04.24.swift */,
+				A2B03A382BDC826900650D89 /* 🪀Work day 24 from 26.04.24.swift */,
+				A2AE8DDD2BDDD48200DDABFE /* 🪀Work day 25 from 27.04.24.swift */,
+				A2483D702BDF28FF00BD2BDF /* 🪀Work day 26 from 28.04.24.swift */,
+				A2E7DCD52BE077E500610CE0 /* 🪀Work day 27 from 29.04.24.swift */,
+				A2E7DCD72BE1CA1800610CE0 /* 🪀Work day 28 from 30.04.24.swift */,
+			);
+			path = "Week 4";
+			sourceTree = "<group>";
+		};
+		A28BD5432BC2279A00AD47D5 = {
+			isa = PBXGroup;
+			children = (
+				A2AEB55B2C9A627D009E0D60 /* Science of Learning */,
+				A2B29B662C8D232200986359 /* Learning Plan.swift */,
+				A27E7E272C2A5CB80046A222 /* main.swift */,
+				A29955322C34CFA2009FC801 /* iOS */,
+				A2C2F2992C43640C00E58F30 /* Testing */,
+				A29955782C362855009FC801 /* GIT */,
+				A28BD55C2BC22A1800AD47D5 /* ❗️Important */,
+				A28BD54E2BC2279A00AD47D5 /* Tech Diary */,
+				A28BD54D2BC2279A00AD47D5 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A28BD54D2BC2279A00AD47D5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A28BD54C2BC2279A00AD47D5 /* Tech Diary */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A28BD54E2BC2279A00AD47D5 /* Tech Diary */ = {
+			isa = PBXGroup;
+			children = (
+				A26BD1BC2BCCB47800A73CEC /* Internship */,
+			);
+			path = "Tech Diary";
+			sourceTree = "<group>";
+		};
+		A28BD55C2BC22A1800AD47D5 /* ❗️Important */ = {
+			isa = PBXGroup;
+			children = (
+				A241E7DE2C800017009CE22F /* Tech Interview Plan.swift */,
+			);
+			path = "❗️Important";
+			sourceTree = "<group>";
+		};
+		A29955322C34CFA2009FC801 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				A29955342C34CFB5009FC801 /* Swift */,
+				A29955332C34CFB1009FC801 /* UIKit */,
+				A2D3C74A2C8831B90017A790 /* DataStractures */,
+				A2D3C7402C854D540017A790 /* Algorithms */,
+				A2741EEB2C55D0E800B27C79 /* Sources */,
+				A2C2F2A72C439ACF00E58F30 /* SwiftUI */,
+				A2A86E732BF76CC700B4B415 /* Other */,
+				A2B070FA2C702E7A003DB10A /* Architecture */,
+				A2741EE82C55CFDD00B27C79 /* Multithreading */,
+				A29955422C34CFFF009FC801 /* Principles */,
+			);
+			path = iOS;
+			sourceTree = "<group>";
+		};
+		A29955332C34CFB1009FC801 /* UIKit */ = {
+			isa = PBXGroup;
+			children = (
+				A2C2F28F2C420C6A00E58F30 /* General.swift */,
+				A2C2F2932C42215500E58F30 /* HitTest.swift */,
+				A2C2F2912C4211A200E58F30 /* Responder Chain.swift */,
+				A2C2F2A02C4365E100E58F30 /* How to handle User's interactions.swift */,
+				A2C2F2A32C43762C00E58F30 /* ViewController LifeCycle.swift */,
+			);
+			path = UIKit;
+			sourceTree = "<group>";
+		};
+		A29955342C34CFB5009FC801 /* Swift */ = {
+			isa = PBXGroup;
+			children = (
+				A29955352C34CFC7009FC801 /* Variables, constants.swift */,
+				A29955372C34CFCE009FC801 /* Functions.swift */,
+				A29955392C34CFD5009FC801 /* Closures.swift */,
+				A299553C2C34CFE6009FC801 /* Structs.swift */,
+				A299553E2C34CFEC009FC801 /* Classes.swift */,
+				A29955462C34D02F009FC801 /* Inits.swift */,
+				A29955482C34D035009FC801 /* Enums.swift */,
+				A299554A2C34D045009FC801 /* Protocols.swift */,
+				A299554C2C34D071009FC801 /* Computed Properties.swift */,
+				A299554E2C34D07F009FC801 /* Property Observers.swift */,
+				A2B29B642C8BDD7B00986359 /* HighOrderFunctions.swift */,
+			);
+			path = Swift;
+			sourceTree = "<group>";
+		};
+		A29955422C34CFFF009FC801 /* Principles */ = {
+			isa = PBXGroup;
+			children = (
+				A29955402C34CFF3009FC801 /* OOP.swift */,
+			);
+			path = Principles;
+			sourceTree = "<group>";
+		};
+		A29955782C362855009FC801 /* GIT */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = GIT;
+			sourceTree = "<group>";
+		};
+		A2A86E732BF76CC700B4B415 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				A27E7E212C2A5AF70046A222 /* Closures */,
+				A203D3382C02C86500D77970 /* Router */,
+			);
+			path = Other;
+			sourceTree = "<group>";
+		};
+		A2AEB55B2C9A627D009E0D60 /* Science of Learning */ = {
+			isa = PBXGroup;
+			children = (
+				A2B29B682C8D240300986359 /* Leither box */,
+				A2AEB55C2C9A6295009E0D60 /* TopicsRandomGenerator.swift */,
+			);
+			path = "Science of Learning";
+			sourceTree = "<group>";
+		};
+		A2B070FA2C702E7A003DB10A /* Architecture */ = {
+			isa = PBXGroup;
+			children = (
+				A2B070FB2C702E85003DB10A /* Component.swift */,
+			);
+			path = Architecture;
+			sourceTree = "<group>";
+		};
+		A2B29B682C8D240300986359 /* Leither box */ = {
+			isa = PBXGroup;
+			children = (
+				A2B29B762C8E7D0700986359 /* Ideas for cards.swift */,
+				A2B29B6C2C8D244800986359 /* 4. To keep (tenth day - quarterly) */,
+				A2B29B6B2C8D243E00986359 /* 3. Know perfect (fourth day - monthly) */,
+				A2B29B6A2C8D242A00986359 /* 2. Know well (second day - weekly) */,
+				A2B29B692C8D241E00986359 /* 1. To learn (daily) */,
+			);
+			path = "Leither box";
+			sourceTree = "<group>";
+		};
+		A2B29B692C8D241E00986359 /* 1. To learn (daily) */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "1. To learn (daily)";
+			sourceTree = "<group>";
+		};
+		A2B29B6A2C8D242A00986359 /* 2. Know well (second day - weekly) */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "2. Know well (second day - weekly)";
+			sourceTree = "<group>";
+		};
+		A2B29B6B2C8D243E00986359 /* 3. Know perfect (fourth day - monthly) */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "3. Know perfect (fourth day - monthly)";
+			sourceTree = "<group>";
+		};
+		A2B29B6C2C8D244800986359 /* 4. To keep (tenth day - quarterly) */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "4. To keep (tenth day - quarterly)";
+			sourceTree = "<group>";
+		};
+		A2B29B6F2C8D3A6A00986359 /* Sort Algorithms */ = {
+			isa = PBXGroup;
+			children = (
+				A2B29B702C8D3A7500986359 /* Plan of Sorts.swift */,
+				A2B29B7D2C91480600986359 /* MergeSort().swift */,
+			);
+			path = "Sort Algorithms";
+			sourceTree = "<group>";
+		};
+		A2BEF8DC2C62FFA900FA3165 /* O(n) */ = {
+			isa = PBXGroup;
+			children = (
+				A2BEF8DD2C62FFBF00FA3165 /* Algorithm's evaluation.swift */,
+			);
+			path = "O(n)";
+			sourceTree = "<group>";
+		};
+		A2C2F2992C43640C00E58F30 /* Testing */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Testing;
+			sourceTree = "<group>";
+		};
+		A2C2F2A72C439ACF00E58F30 /* SwiftUI */ = {
+			isa = PBXGroup;
+			children = (
+				A2C2F2A82C439ADD00E58F30 /* 100 days with SwiftUI.swift */,
+			);
+			path = SwiftUI;
+			sourceTree = "<group>";
+		};
+		A2D3C7402C854D540017A790 /* Algorithms */ = {
+			isa = PBXGroup;
+			children = (
+				A2BEF8DC2C62FFA900FA3165 /* O(n) */,
+				A2B29B6F2C8D3A6A00986359 /* Sort Algorithms */,
+				A2D3C74F2C8834630017A790 /* Search Algorithms */,
+				A2D3C7472C86B55F0017A790 /* Yandex Contest */,
+				A2D3C7412C854D670017A790 /* Standart input:output.swift */,
+				A2D3C7432C854D7E0017A790 /* Write:Read to the file.swift */,
+				A2D3C7452C857AA20017A790 /* Checklist of the solution.swift */,
+				A2B29B742C8D3ABF00986359 /* AdvancedTopicsForLeetCode.swift */,
+			);
+			path = Algorithms;
+			sourceTree = "<group>";
+		};
+		A2D3C7472C86B55F0017A790 /* Yandex Contest */ = {
+			isa = PBXGroup;
+			children = (
+				A2D3C7482C86B5700017A790 /* Bug In Library.swift */,
+				A2D3C7502C8942560017A790 /* Game on Tora.swift */,
+			);
+			path = "Yandex Contest";
+			sourceTree = "<group>";
+		};
+		A2D3C74A2C8831B90017A790 /* DataStractures */ = {
+			isa = PBXGroup;
+			children = (
+				A2B29B6D2C8D3A3C00986359 /* Plan of stractures.swift */,
+				A2D3C74B2C8831C40017A790 /* Queue.swift */,
+				A2B29B5C2C89908200986359 /* Stack.swift */,
+				A2B29B5E2C8991B200986359 /* Task.swift */,
+				A2AEB55F2C9BCDE0009E0D60 /* LinkedList.swift */,
+			);
+			path = DataStractures;
+			sourceTree = "<group>";
+		};
+		A2D3C74F2C8834630017A790 /* Search Algorithms */ = {
+			isa = PBXGroup;
+			children = (
+				A2B29B722C8D3A9600986359 /* Plan of Searches.swift */,
+				A2D3C74D2C88344E0017A790 /* BFSAlgorithm.swift */,
+			);
+			path = "Search Algorithms";
+			sourceTree = "<group>";
+		};
+		A2E7DCDE2BE3199F00610CE0 /* Week 1 */ = {
+			isa = PBXGroup;
+			children = (
+				A2E7DCDF2BE319CC00610CE0 /* 🪀Work day 29 from 01.05.24.swift */,
+				A2280FB72BE4651800D0BFAB /* 🪀Work day 30 from 02.05.24 .swift */,
+				A226AA742BE5BD4B001B7751 /* 🪀Work day 31 from  03.05.24.swift */,
+				A226AA772BE70BE2001B7751 /* 🪀Work day 32 from 04.05.24.swift */,
+				A226AA7B2BE85FB7001B7751 /* 🪀Work day 33 from 05.04.24.swift */,
+				A226AA7F2BE9ADFF001B7751 /* 🪀Work day 34 from 06.05.24.swift */,
+				A26A7B082BEB058900C8A48C /* 🪀Work day 35 from 07.05.24.swift */,
+			);
+			path = "Week 1";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A28BD54B2BC2279A00AD47D5 /* Tech Diary */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A28BD5532BC2279A00AD47D5 /* Build configuration list for PBXNativeTarget "Tech Diary" */;
+			buildPhases = (
+				A28BD5492BC2279A00AD47D5 /* Frameworks */,
+				A2B29B792C8E884F00986359 /* Sources */,
+				A28BD54A2BC2279A00AD47D5 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Tech Diary";
+			productName = "Tech Diary";
+			productReference = A28BD54C2BC2279A00AD47D5 /* Tech Diary */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A28BD5442BC2279A00AD47D5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1520;
+				TargetAttributes = {
+					A28BD54B2BC2279A00AD47D5 = {
+						CreatedOnToolsVersion = 15.2;
+						LastSwiftMigration = 1520;
+					};
+				};
+			};
+			buildConfigurationList = A28BD5472BC2279A00AD47D5 /* Build configuration list for PBXProject "Tech Diary" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A28BD5432BC2279A00AD47D5;
+			productRefGroup = A28BD54D2BC2279A00AD47D5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A28BD54B2BC2279A00AD47D5 /* Tech Diary */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A2B29B792C8E884F00986359 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A2B29B7A2C8E886200986359 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		A28BD5512BC2279A00AD47D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A28BD5522BC2279A00AD47D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		A28BD5542BC2279A00AD47D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		A28BD5552BC2279A00AD47D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A28BD5472BC2279A00AD47D5 /* Build configuration list for PBXProject "Tech Diary" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A28BD5512BC2279A00AD47D5 /* Debug */,
+				A28BD5522BC2279A00AD47D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A28BD5532BC2279A00AD47D5 /* Build configuration list for PBXNativeTarget "Tech Diary" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A28BD5542BC2279A00AD47D5 /* Debug */,
+				A28BD5552BC2279A00AD47D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A28BD5442BC2279A00AD47D5 /* Project object */;
+}
