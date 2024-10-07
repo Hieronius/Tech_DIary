@@ -8,6 +8,16 @@
 
 /* Begin PBXBuildFile section */
 		A2B29B7A2C8E886200986359 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A27E7E272C2A5CB80046A222 /* main.swift */; };
+		DDCA68B02CB38AC500E3C00B /* Deadlock.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDCA68AF2CB38AC500E3C00B /* Deadlock.swift */; };
+		DDCA68B22CB38ACE00E3C00B /* LiveLock.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDCA68B12CB38ACE00E3C00B /* LiveLock.swift */; };
+		DDCA68B42CB38ADA00E3C00B /* Resource Contention.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDCA68B32CB38ADA00E3C00B /* Resource Contention.swift */; };
+		DDCA68B62CB38AE100E3C00B /* Data Race.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDCA68B52CB38AE100E3C00B /* Data Race.swift */; };
+		DDCA68B82CB38AE900E3C00B /* Starvation.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDCA68B72CB38AE900E3C00B /* Starvation.swift */; };
+		DDCA68BA2CB38AF100E3C00B /* False Sharing.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDCA68B92CB38AF100E3C00B /* False Sharing.swift */; };
+		DDCA68BC2CB38AFA00E3C00B /* Thread Explosion.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDCA68BB2CB38AFA00E3C00B /* Thread Explosion.swift */; };
+		DDCA68BE2CB38B0500E3C00B /* Race Condition.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDCA68BD2CB38B0500E3C00B /* Race Condition.swift */; };
+		DDCA68C02CB38B1600E3C00B /* Atomicity Violation.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDCA68BF2CB38B1600E3C00B /* Atomicity Violation.swift */; };
+		DDCA68C22CB38B2400E3C00B /* Priority Inversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDCA68C12CB38B2400E3C00B /* Priority Inversion.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -223,6 +233,16 @@
 		A2E7DCD52BE077E500610CE0 /* 🪀Work day 27 from 29.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 27 from 29.04.24.swift"; sourceTree = "<group>"; };
 		A2E7DCD72BE1CA1800610CE0 /* 🪀Work day 28 from 30.04.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 28 from 30.04.24.swift"; sourceTree = "<group>"; };
 		A2E7DCDF2BE319CC00610CE0 /* 🪀Work day 29 from 01.05.24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "🪀Work day 29 from 01.05.24.swift"; sourceTree = "<group>"; };
+		DDCA68AF2CB38AC500E3C00B /* Deadlock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deadlock.swift; sourceTree = "<group>"; };
+		DDCA68B12CB38ACE00E3C00B /* LiveLock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveLock.swift; sourceTree = "<group>"; };
+		DDCA68B32CB38ADA00E3C00B /* Resource Contention.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Resource Contention.swift"; sourceTree = "<group>"; };
+		DDCA68B52CB38AE100E3C00B /* Data Race.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Data Race.swift"; sourceTree = "<group>"; };
+		DDCA68B72CB38AE900E3C00B /* Starvation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Starvation.swift; sourceTree = "<group>"; };
+		DDCA68B92CB38AF100E3C00B /* False Sharing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "False Sharing.swift"; sourceTree = "<group>"; };
+		DDCA68BB2CB38AFA00E3C00B /* Thread Explosion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Thread Explosion.swift"; sourceTree = "<group>"; };
+		DDCA68BD2CB38B0500E3C00B /* Race Condition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Race Condition.swift"; sourceTree = "<group>"; };
+		DDCA68BF2CB38B1600E3C00B /* Atomicity Violation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Atomicity Violation.swift"; sourceTree = "<group>"; };
+		DDCA68C12CB38B2400E3C00B /* Priority Inversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Priority Inversion.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -395,6 +415,7 @@
 		A2741EE82C55CFDD00B27C79 /* Multithreading */ = {
 			isa = PBXGroup;
 			children = (
+				DDCA68AE2CB38AAE00E3C00B /* Concurrency Problems */,
 				A2741EE92C55CFF500B27C79 /* Links.swift */,
 				A29955432C34D016009FC801 /* Concurrency.swift */,
 				A29955502C34D09B009FC801 /* Async:Await.swift */,
@@ -914,6 +935,23 @@
 			path = "Week 1";
 			sourceTree = "<group>";
 		};
+		DDCA68AE2CB38AAE00E3C00B /* Concurrency Problems */ = {
+			isa = PBXGroup;
+			children = (
+				DDCA68AF2CB38AC500E3C00B /* Deadlock.swift */,
+				DDCA68B12CB38ACE00E3C00B /* LiveLock.swift */,
+				DDCA68C12CB38B2400E3C00B /* Priority Inversion.swift */,
+				DDCA68B32CB38ADA00E3C00B /* Resource Contention.swift */,
+				DDCA68B52CB38AE100E3C00B /* Data Race.swift */,
+				DDCA68BD2CB38B0500E3C00B /* Race Condition.swift */,
+				DDCA68B72CB38AE900E3C00B /* Starvation.swift */,
+				DDCA68B92CB38AF100E3C00B /* False Sharing.swift */,
+				DDCA68BF2CB38B1600E3C00B /* Atomicity Violation.swift */,
+				DDCA68BB2CB38AFA00E3C00B /* Thread Explosion.swift */,
+			);
+			path = "Concurrency Problems";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -973,6 +1011,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DDCA68B82CB38AE900E3C00B /* Starvation.swift in Sources */,
+				DDCA68BA2CB38AF100E3C00B /* False Sharing.swift in Sources */,
+				DDCA68C22CB38B2400E3C00B /* Priority Inversion.swift in Sources */,
+				DDCA68BC2CB38AFA00E3C00B /* Thread Explosion.swift in Sources */,
+				DDCA68B02CB38AC500E3C00B /* Deadlock.swift in Sources */,
+				DDCA68BE2CB38B0500E3C00B /* Race Condition.swift in Sources */,
+				DDCA68B62CB38AE100E3C00B /* Data Race.swift in Sources */,
+				DDCA68B42CB38ADA00E3C00B /* Resource Contention.swift in Sources */,
+				DDCA68C02CB38B1600E3C00B /* Atomicity Violation.swift in Sources */,
+				DDCA68B22CB38ACE00E3C00B /* LiveLock.swift in Sources */,
 				A2B29B7A2C8E886200986359 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

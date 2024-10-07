@@ -19,6 +19,12 @@
  min(by:): Finds the minimum element based on a condition.
  max(by:): Finds the maximum element based on a condition.
 
+ MARK: Reordering Functions
+
+ reversed: Returns a reversed collection.
+ shuffle: Shuffles the collection in place.
+ shuffled: Returns a shuffled collection.
+
  MARK: Filtering Functions
 
  filter: Returns elements that satisfy a condition.
@@ -52,10 +58,4 @@
  dropLast: Returns a subsequence by removing the last element(s).
  prefix: Returns a subsequence from the start.
  suffix: Returns a subsequence from the end.
-
- MARK: Reordering Functions
- 
- reversed: Returns a reversed collection.
- shuffle: Shuffles the collection in place.
- shuffled: Returns a shuffled collection.
  */
